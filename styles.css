@@ -73,7 +73,7 @@ header {
     display: flex;
 }
 
-@media only screen and (max-width: 600px){
+@media screen and (max-width: 600px){
     header {
         height: 4.8rem;
         transition: background-color .56s cubic-bezier(0.32, 0.08, 0.24, 1),
