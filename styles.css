@@ -128,7 +128,7 @@ header {
     }
 
     .bread-up {
-        margin-top: -1.85rem !important;
+        top: 1.35rem;
         margin-left: 1.5rem;
         transform-origin: top center;
         /* transform: rotateZ(-30deg);
@@ -136,7 +136,7 @@ header {
     }
 
     .bread-down {
-        margin-top: 1.85rem !important;
+        top: 3.25rem;
         margin-left: 1.5rem;
         transform-origin: top center;
         display: none;
